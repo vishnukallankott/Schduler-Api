@@ -87,6 +87,19 @@ To deploy this project run
 ```
 
 | Parameter | Type     | Description                       |
+
+#### Please Use this env
+
+host='localhost'
+port=4003
+user=''
+password=''
+database_host='localhost'
+database_port=3306
+database=Office
+sender_email=''
+email_password=''
+
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `numbers` | **Required**. Id of the candidates |
 
