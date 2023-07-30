@@ -88,7 +88,7 @@ To deploy this project run
 
 | Parameter | Type     | Description                       |
 
-#### Please Use this env
+#### Prior to executing the application, please make sure to include the essential credentials within the .env file.
 
 #### host='localhost'
 #### port=4003
